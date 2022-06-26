@@ -105,3 +105,37 @@ Install ipykernel
 ```
 pip install ipykernel
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+# Staring a Machine Learning Project
+
+### Software and account Requirement.
+
+1. [Github Account](https://github.com)
+2. [Heroku Account](https://dashboard.heroku.com/login)
+3. [VS Code IDE](https://code.visualstudio.com/download)
+4. [GIT cli](https://git-scm.com/downloads)
+5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
+
+## Steps to Create a projec
+
+1. Create a repository in github
+
+2. Clone the repository using Git in Visual Studio Code.
+
+3. Create a conda environment
+```
+conda create -p nameofenvironment  python==3.7 -y
+```
+
+4. Create a file named "app.py"

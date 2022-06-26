@@ -7,7 +7,7 @@ def get_requirements_list()->List[str]:
 
 # Declaring variables for setup function
 PROJECT_NAME="housing-predictor"
-VERSION="0.0.3",
+VERSION="0.0.3"
 AUTHOR="Akshaj Piri"
 DESCRIPTION="This is a ML Project."
 PACKAGES=["housing"]
